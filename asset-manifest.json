@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Winterstore-Shopping/static/css/main.584b6881.css",
-    "main.js": "/Winterstore-Shopping/static/js/main.64a133ea.js",
+    "main.js": "/Winterstore-Shopping/static/js/main.3c7a4719.js",
     "static/js/787.a8581d61.chunk.js": "/Winterstore-Shopping/static/js/787.a8581d61.chunk.js",
     "static/media/user.gif": "/Winterstore-Shopping/static/media/user.9d2be482a74bc9ad08b0.gif",
     "static/media/oc.gif": "/Winterstore-Shopping/static/media/oc.68eaa8d5d2a12530556a.gif",
@@ -9,11 +9,11 @@
     "static/media/logo.png": "/Winterstore-Shopping/static/media/logo.aab1fc63451c37daf34a.png",
     "index.html": "/Winterstore-Shopping/index.html",
     "main.584b6881.css.map": "/Winterstore-Shopping/static/css/main.584b6881.css.map",
-    "main.64a133ea.js.map": "/Winterstore-Shopping/static/js/main.64a133ea.js.map",
+    "main.3c7a4719.js.map": "/Winterstore-Shopping/static/js/main.3c7a4719.js.map",
     "787.a8581d61.chunk.js.map": "/Winterstore-Shopping/static/js/787.a8581d61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.584b6881.css",
-    "static/js/main.64a133ea.js"
+    "static/js/main.3c7a4719.js"
   ]
 }
